@@ -1,0 +1,11 @@
+C:\Users\hp1\documents\visual studio 2015\Projects\FinalprojectGaintheMilion\FinalprojectGaintheMilion\bin\Debug\FinalprojectGaintheMilion.exe.config
+C:\Users\hp1\documents\visual studio 2015\Projects\FinalprojectGaintheMilion\FinalprojectGaintheMilion\obj\Debug\FinalprojectGaintheMilion.exe
+C:\Users\hp1\documents\visual studio 2015\Projects\FinalprojectGaintheMilion\FinalprojectGaintheMilion\obj\Debug\FinalprojectGaintheMilion.pdb
+C:\Users\hp1\documents\visual studio 2015\Projects\FinalprojectGaintheMilion\FinalprojectGaintheMilion\bin\Debug\FinalprojectGaintheMilion.exe
+C:\Users\hp1\documents\visual studio 2015\Projects\FinalprojectGaintheMilion\FinalprojectGaintheMilion\bin\Debug\FinalprojectGaintheMilion.pdb
+C:\Users\hp1\documents\visual studio 2015\Projects\FinalprojectGaintheMilion\FinalprojectGaintheMilion\obj\Debug\MoneyWay.csprojResolveAssemblyReference.cache
+C:\Users\hp1\documents\visual studio 2015\Projects\FinalprojectGaintheMilion\FinalprojectGaintheMilion\obj\Debug\FinalprojectGaintheMilion.Form1.resources
+C:\Users\hp1\documents\visual studio 2015\Projects\FinalprojectGaintheMilion\FinalprojectGaintheMilion\obj\Debug\FinalprojectGaintheMilion.MoneyWay.resources
+C:\Users\hp1\documents\visual studio 2015\Projects\FinalprojectGaintheMilion\FinalprojectGaintheMilion\obj\Debug\FinalprojectGaintheMilion.MoneyWayRule.resources
+C:\Users\hp1\documents\visual studio 2015\Projects\FinalprojectGaintheMilion\FinalprojectGaintheMilion\obj\Debug\FinalprojectGaintheMilion.Properties.Resources.resources
+C:\Users\hp1\documents\visual studio 2015\Projects\FinalprojectGaintheMilion\FinalprojectGaintheMilion\obj\Debug\MoneyWay.csproj.GenerateResource.Cache
